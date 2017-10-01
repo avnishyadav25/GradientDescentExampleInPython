@@ -1,10 +1,11 @@
 # GradientDescentExampleInPython
 Gradient Descent Example for Linear Regression
-Code Requirements
+
+#Code Requirements
 
 The example code is in Python (version 2.X or version 3.X). The only other requirement is NumPy.
 
-Description
+#Description
 
 This code demonstrates how a gradient descent search may be used to solve the linear regression problem of fitting a line to a set of points. In this problem, we wish to model a set of points using a line. The line model is defined by two parameters - the line's slope m, and y-intercept b. Gradient descent attemps to find the best values for these parameters, subject to an error function.
 
